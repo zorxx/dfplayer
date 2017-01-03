@@ -1,0 +1,40 @@
+#######################################
+# Syntax Coloring Map For dfplayer 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+dfplayer_Initialize           KEYWORD2
+dfplayer_HandleSerialChar     KEYWORD2
+dfplayer_Play                 KEYWORD2
+dfplayer_Pause                KEYWORD2
+dfplayer_NextTrack            KEYWORD2
+dfplayer_PreviousTrack        KEYWORD2
+dfplayer_SetTrack             KEYWORD2
+dfplayer_SetPlaybackMode      KEYWORD2
+dfplayer_SetPlaybackSource    KEYWORD2
+dfplayer_SetFolder            KEYWORD2
+dfplayer_EnableRepeatPlayback KEYWORD2
+dfplayer_SetEqualizer         KEYWORD2
+dfplayer_VolumeUp             KEYWORD2
+dfplayer_VolumeDown           KEYWORD2
+dfplayer_VolumeSet            KEYWORD2
+dfplayer_SetStandbyMode       KEYWORD2 
+dfplayer_Reset                KEYWORD2
+dfplayer_QueryStatus          KEYWORD2
+dfplayer_QueryVolume          KEYWORD2
+dfplayer_QueryEqualizer       KEYWORD2
+dfplayer_QueryPlaybackMode    KEYWORD2
+dfplayer_QueryFileCount       KEYWORD2
+dfplayer_QueryCurrentTrack    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
