@@ -1,3 +1,4 @@
+# Copyright 2018 Zorxx Software. All rights reserved.
 APP = dfplayer
 
 DFPLAYER_SRCDIR := ../../src

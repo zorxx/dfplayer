@@ -1,0 +1,4 @@
+language: c
+script: make
+script:
+    - make -C examples/linux all
